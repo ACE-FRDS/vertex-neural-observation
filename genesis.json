@@ -1,0 +1,8 @@
+{
+  "ok": true,
+  "vertex_neural_observation": "GENESIS_000001",
+  "source": "VERTEX_PROJECT",
+  "target": "VERA",
+  "mode": "READ_ONLY",
+  "message": "Can you see me?"
+}
